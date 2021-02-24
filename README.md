@@ -26,8 +26,9 @@ Hi, I'm Ketan Gangal, a passionate and Aspiring Data Scientist. I am enhancing m
 
 📈 My GitHub Stats
 
-
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ketangangal&show_icons=true&theme=gotham" alt="ketangangal" />
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=ketangangal&show_icons=true&theme=gotham" alt="ketangangal" />
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ketangangal&show_icons=true&locale=en&layout=compact&theme=gotham" alt="ketangangal" />
+<p float="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketangangal&show_icons=true&theme=gotham" alt="ketangangal" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ketangangal&show_icons=true&theme=gotham" alt="ketangangal" width="450" />
+</p>  
+  
 
