@@ -18,7 +18,7 @@ Hi, I'm Ketan Gangal, a passionate and Aspiring Data Scientist. I am enhancing m
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [KetanGangal](https://twitter.com/ketan_gangal);
 - ✨ **Wanna Talk?** [calendly](https://calendly.com/ketangangal)
-- 📝 [Resume](https://drive.google.com/file/d/1rNB_gythj9oVl0D4XZFXkcUAuvwGmAqC/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1yPVZqfquTSjbANOXy-0Lf5ubRdSfHpqI/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
