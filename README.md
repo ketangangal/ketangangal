@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm Ketan Gangal, a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Web scraping) and model training. After some time you can call me self-taught Data Science Engineer from India. 
+Hi, I'm Ketan Gangal, a passionate Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection , Model training and retraning Approach, Mlops. After some time you can call me self-taught Data Science Engineer from India. 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
