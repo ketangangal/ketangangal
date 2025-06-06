@@ -3,12 +3,12 @@
     <!-- LEFT COLUMN -->
     <td valign="top" style="border: none; width: 60%;">
       <div style="padding: 16px; border: 1px solid #333; border-radius: 12px;">
-        <h2 style="margin-top: 0;">Hi, I'm k10 </h2>
+        <h2 style="margin-top: 0;">Hi, I'm k10 🐼</h2>
         <ul>
-          <li>🧪 Currently Building <b>GenAI, ReAct Agents & Rag's</b> for Enterprise</li>
-          <li>🌱 Exploring <b>enterprise AI orchestrations</b>..</li>
-          <li>🤝 Seeking collaborators for <b>innovative AI & ML projects</b></li>
-          <li>🧠 Ask me about <b>GenAI, MLE, ML-Ops, Deep Learning, NLP ..</b></li>
+          <li>🧪 Currently Building <b>ReAct Agents & Rag's</b> at Enterprise scale.</li>
+          <li>🌱 Exploring <b>enterprise AI orchestrations</b>.</li>
+          <li>🤝 Seeking collaborators for <b>innovative AI & ML projects.</b></li>
+          <li>🧠 Ask me about <b>GenAI, MLE, ML-Ops, Deep Learning, NLP.</b></li>
           <li>⚡ Fact: I believe <i>sequence processing is the key to true AI—because life itself is a sequence!</i></li>
         </ul>
       </div>
