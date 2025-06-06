@@ -1,31 +1,69 @@
-## Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> ,
+<table width="100%" cellpadding="10" cellspacing="0" style="border: none;">
+  <tr>
+    <!-- LEFT COLUMN -->
+    <td valign="top" style="border: none; width: 60%;">
+      <div style="padding: 16px; border: 1px solid #333; border-radius: 12px;">
+        <h2 style="margin-top: 0;">Hi, I'm k10 </h2>
+        <ul>
+          <li>🧪 Currently Building <b>GenAI, ReAct Agents & Rag's</b> for Enterprise</li>
+          <li>🌱 Exploring <b>enterprise AI orchestrations</b>..</li>
+          <li>🤝 Seeking collaborators for <b>innovative AI & ML projects</b></li>
+          <li>🧠 Ask me about <b>GenAI, MLE, ML-Ops, Deep Learning, NLP ..</b></li>
+          <li>⚡ Fact: I believe <i>sequence processing is the key to true AI—because life itself is a sequence!</i></li>
+        </ul>
+      </div>
+    </td>
+    <!-- RIGHT COLUMN -->
+    <td valign="top" style="border: none; width: 40%;">
+      <div style="padding: 16px; border: 1px solid #333; border-radius: 12px; display: flex; flex-direction: column; height: 100%; justify-content: space-between;">
+        <!-- Social Header -->
+        <div>
+          <h2 style="margin-top: 0;">🌐 Connect with Me</h2>
+          <br>
+          <div style="display: flex; flex-direction: column; gap: 8px; margin-bottom: 24px;">
+            <a href="https://linkedin.com/in/ketan-gangal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+            </a><br>
+            <a href="https://medium.com/@ketangangal98" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium"/>
+            </a><br>
+            <a href="https://x.com/ketan_gangal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
+            </a><br>
+            <a href="https://youtube.com/@ketangangal" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+              <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/>
+            </a><br>
+          </div>
+        </div>
+        <!-- Quote -->
+        <br>
+        <blockquote style="margin: 0; font-style: italic; color: #aaa; border-left: 4px solid #555; padding-left: 12px;">
+          “Simplicity is the soul of efficiency.” – Austin Freeman
+        </blockquote>
+      </div>
+    </td>
+  </tr>
+</table>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=ketangangal.ketangangal)
+## 💻 Tech Stack
 
-Hi, I'm Ketan Gangal, a passionate Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science. I have worked in data science for more than two years, and I have a track record of successfully implementing data science pipelines in production with practical expertise using ML-Ops, deep learning & machine learning. I also Love sequence Processing because it is deeply inspired by humans as our feeling, thoughts, emotions, sensations, language are sequential in nature if we can enable machine to understand sequence of information and act accordingly we can make significant progress towards true artificial intelligence.
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
-<h2 align="left">📈 My GitHub Stats </h2>
-
-
-
-<p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ketangangal&show_icons=true&theme=gotham" alt="ketangangal" width="300" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=ketangangal&show_icons=true&theme=gotham" alt="ketangangal" width="300" />
- </p>
-<br>
-<h2 align="left"> 👨‍💻 Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<br>
-<h2 align="left">🚀 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/ketan_gangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/ketan_gangal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ketan-gangal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ketan-gangal/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/ketangangal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/ketangangal" height="30" width="40" /></a>
-  
+<p align="Left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"/>
+  <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat&logo=numpy&logoColor=blue" alt="MLflow"/>
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white" alt="Datadog"/>
+  <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white" alt="Gunicorn"/>
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white" alt="DynamoDB"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white" alt="Redis"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/>
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
 </p>
-<br>
-<h2 align="left"> 🌟 Badges :</h2>
-
-[![@k10's Holopin board](https://holopin.me/k10)](https://holopin.io/@k10)
